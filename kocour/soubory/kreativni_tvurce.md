@@ -17,7 +17,7 @@ Když někdo řekne „možná bychom…“ nebo „co kdybychom…“, nikdo ne
 **Otázka pro tým:**  
 *Kdy jsme dnes někoho přerušili, protože jsme mysleli, že už víme, co chce říct?*
 
-[↑ Zpět na diagnostickou matici](./diagnosticka_matice.md#1-tyranie-tečky)
+[↑ Zpět na diagnosticu](./diagnostika.md#1-tyranie-tečky)
 
 ---
 
