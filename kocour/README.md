@@ -26,7 +26,7 @@
 |---------|-------|-------|
 | ❓ 3 otázky | Polož je týmu – písemně, anonymně. | [`soubory/3_otazky.md`](./soubory/3_otazky.md) |
 | 📊 Diagnostická matice | Z odpovědí vyčteš, kde je problém. | [`soubory/diagnostika.md`](./soubory/diagnostika.md) |
-| 🧪 Propojení | Každý řádek v matici tě pošle do konkrétního protiléku. | → [`soubory/tvurce.md`](./soubory/tvurce.md) |
+| 🧪 Propojení | Každý řádek v matici tě pošle do konkrétního protiléku. | → [`soubory/kreativni_tvurce.md`](./soubory/kreativni_tvurce.md) |
 
 ---
 
@@ -35,7 +35,7 @@
 **12 protiléků na 12 úhlů.**  
 Ne „co dělat špatně“, ale **„co dělat místo toho“**.
 
-→ [`soubory/tvurce.md`](./soubory/tvurce.md)
+→ [`soubory/kreativni_tvurce.md`](./soubory/krativni_tvurce.md)
 
 Každý protilék obsahuje:
 - ✅ pozitivní princip
