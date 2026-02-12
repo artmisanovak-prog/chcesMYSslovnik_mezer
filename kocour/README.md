@@ -10,64 +10,69 @@
 
 | Co hledáš? | Otevři |
 |------------|--------|
-| Příběh o kocourovi, beruškách a 14 tečkách | [`pohadka.md`](./pohadka.md) |
-| Obraz, který to celý odstartoval | [`kocour.jpg`](./kocour.jpg) |
-| 12 úhlů pohledu na jednu dysfunkci | [`uhly12.md`](./uhly12.md) |
-| Jak s kartou pracovat krok za krokem | [`Protokol.md`](./Protokol.md) |
+| 📖 Příběh o kocourovi, beruškách a 14 tečkách | [`soubory/pohadka.md`](./soubory/pohadka.md) |
+| 🖼️ Obraz, který to celý odstartoval | [`soubory/kocour.jpg`](./soubory/kocour.jpg) |
+| 🎧 Audio verze | *(doplň, pokud je v `soubory/`)* |
+| 📐 12 úhlů pohledu na jednu dysfunkci | [`soubory/uhly12.md`](./soubory/uhly12.md) |
+| 📘 Jak s kartou pracovat krok za krokem | [`soubory/Protokol.md`](./soubory/Protokol.md) |
 
 ---
 
 ### 🩺 Diagnostika
 
-Než začneš léčit, musíš vědět, co bolí.
+**Než začneš léčit, musíš vědět, co bolí.**
 
-→ [`3_otazky.md`](./3_otazky.md) – polož je týmu, písemně, anonymně.  
-→ [`diagnostika.md`](./diagnostika.md) – tabulka, která z odpovědí vyčte, kde je problém.  
-→ Každý řádek v diagnostice tě pošle do [`tvurce.md`](./tvurce.md) pro konkrétní protilék.
+| Nástroj | Popis | Odkaz |
+|---------|-------|-------|
+| ❓ 3 otázky | Polož je týmu – písemně, anonymně. | [`soubory/3_otazky.md`](./soubory/3_otazky.md) |
+| 📊 Diagnostická matice | Z odpovědí vyčteš, kde je problém. | [`soubory/diagnostika.md`](./soubory/diagnostika.md) |
+| 🧪 Propojení | Každý řádek v matici tě pošle do konkrétního protiléku. | → [`soubory/tvurce.md`](./soubory/tvurce.md) |
 
 ---
 
 ### 🛠️ Tvůrce
 
-12 protiléků na 12 úhlů.  
-Ne „co dělat špatně“, ale „co dělat místo toho“.
+**12 protiléků na 12 úhlů.**  
+Ne „co dělat špatně“, ale **„co dělat místo toho“**.
 
-→ [`tvurce.md`](./tvurce.md)
+→ [`soubory/tvurce.md`](./soubory/tvurce.md)
 
 Každý protilék obsahuje:
-- pozitivní princip
-- konkrétní aktivitu
-- otázku pro tým
-- **zpětný odkaz** do [`diagnostika.md`](./diagnostika.md)
+- ✅ pozitivní princip
+- 🧩 konkrétní aktivitu
+- 💬 otázku pro tým
+- 🔙 zpětný odkaz do [`soubory/diagnostika.md`](./soubory/diagnostika.md)
 
 ---
 
 ### 🔮 Generátor IN
 
-Tahle karta umí víc, než se na první pohled zdá.  
-Stačí spojit dva různé úhly – a vznikne nový workshop.
+**Tahle karta umí víc, než se na první pohled zdá.**  
+Stačí spojit dva různé úhly – a vznikne **nový workshop**.
 
-→ [`generator_IN.md`](./generator_IN.md)
+→ [`soubory/generator_IN.md`](./soubory/generator_IN.md)
 
-4 hotové kombinace, které můžeš použít hned teď.  
+Obsahuje **4 hotové kombinace**, které můžeš použít hned teď.  
 Žádná jiná karta není potřeba.
 
 ---
 
 ### 🧰 Materiály
 
-Všechno, co potřebuješ k vedení workshopu:
+**Všechno, co potřebuješ k vedení workshopu:**
 
-→ [`workshop.md`](./workshop.md) – 90minutový scénář, časování, instrukce  
-→ [`materialy.md`](./materialy.md) – šablony, pracovní listy, pomůcky
+| Materiál | Popis | Odkaz |
+|----------|-------|-------|
+| 🧾 Scénář | 90 minut, časování, instrukce pro facilitátora | [`soubory/workshop.md`](./soubory/workshop.md) |
+| 📋 Šablony | Pracovní listy, pomůcky, předlohy | [`soubory/materialy.md`](./soubory/materialy.md) |
 
 ---
 
 ### 📄 Licence
 
-Tato karta není volné dílo. Je to nástroj.
+**Tato karta není volné dílo. Je to profesionální nástroj.**
 
-→ [`licence_karty.txt`](./licence_karty.txt)
+→ [`soubory/licence_karty.txt`](./soubory/licence_karty.txt)
 
 Součástí licence je **právo na všechny budoucí kombinace** s dalšími kartami systému.
 
