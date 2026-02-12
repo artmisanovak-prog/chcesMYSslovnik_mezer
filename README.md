@@ -6,70 +6,46 @@
 
 ## 🚀 Rychlý start
 
-1. **Vyzkoušejte diagnostiku** – Přejděte do [karty Myš](./karty/mys/)
-2. **Prohlédněte si ukázkové karty** – [plameňák](./karty/plamenak/) a [kocour](./karty/kocour/)
-3. **Naučte se diagnostikovat** – Přečtěte si [Klíč k úhlům](./_diagnostika/klic_k_uhlum.md)
+1. **Vyzkoušejte kompletní kartu zdarma**  
+   [→ Kocour – komunikační patologie](./karty/kocour/README.md)  
+   *Pohádka, 12 úhlů, diagnostika, 12 protiléků, generátor, workshop.*
+
+2. **Prohlédněte si ukázkové karty**  
+   - [🦩 Plameňák – energie bez směru](./karty/plamenak/README.md)  
+   - [🦋 Motýl – vize bez plánu](./karty/motyl/README.md)  
+   - [🐟 Ryba – komunikace bez vnímání](./karty/ryba/README.md)  
+   - [🦚 Páv – sebestředná kultura](./karty/pav/README.md)
+
+3. **Naučte se diagnostikovat**  
+   [→ Klíč k úhlům – Myš](./karty/mys/README.md) *(doplnit)*
 
 ---
 
-## 🃏 Dostupné karty
+## 🃏 Katalog karet
 
-| Karta | Problém | Ukázka | Plná verze |
-|-------|---------|--------|------------|
-| 🐀 **Myš** | Diagnostika myšlenkových stylů | [Zdarma](./karty/Mys/) | – |
-| 🦩 **Plameňák** | Energie bez směru, toxický optimismus | [Ukázka](./karty/Plameňák/) | **15 000 Kč** |
-| 🐈‍⬛ **Kocour** | Špatná komunikace, skákání do řeči | [Ukázka](./karty/Kocour/) | **15 000 Kč** |
-| 🦚 **Páv** | Sebestředné vnímání, skupinové myšlení | [Ukázka](./karty/Pav/) | **15 000 Kč** |
-| 🐯 **Tygr** | Systém vs. autenticita | [Ukázka](./karty/Tygr/) | **15 000 Kč** |
-| 🐲 **Drak** | Sebestředné vnímání, skupinové myšlení | [Ukázka](./karty/Motyl/) | **15 000 Kč** |
-| 🐟 **Ryva** | Systém vs. autenticita | [Ukázka](./karty/Tygr/) | **15 000 Kč** |
-
-
----
-
-## 💡 Co je v plné verzi?
-
-Plná verze karty obsahuje:
-- ✅ **Všech 12 úhlů** s detailním vysvětlením
-- ✅ **Kompletní workshop** (90 minut) s časováním
-- ✅ **Šablony** k okamžitému použití
-- ✅ **Diagnostické nástroje** pro tým
-- ✅ **Návod** na implementaci v týmu
-- ✅ **Licenci** k použití ve vaší organizaci
+| Karta | Problém | Stav | Cena |
+|-------|--------|------|------|
+| 🐱 **Kocour** | Předčasné uzavírání, skákání do řeči | ✅ Kompletní | Zdarma |
+| 🦩 **Plameňák** | Energie bez směru, toxický optimismus | 🟡 Ukázka | 15 000 Kč |
+| 🦋 **Motýl** | Vize bez plánu, strategie bez kroků | 🟡 Ukázka | 15 000 Kč |
+| 🐟 **Ryba** | Komunikace bez vnímání, tiché hlasy | 🟡 Ukázka | 15 000 Kč |
+| 🦚 **Páv** | Sebestředná kultura, narcistní deformace | 🟡 Ukázka | 15 000 Kč |
+| 🐯 **Tygr** | Proměna bez souhlasu | 🔒 K dispozici | 15 000 Kč |
+| 🐉 **Drak** | Pravidla jako vězení | 🔒 K dispozici | 15 000 Kč |
+| … | … | … | … |
 
 ---
 
-## 🛒 Jak koupit
+## 🔀 Generativní mód
 
-**Cena:** 15 000 Kč za kartu
-
-Napište na: **chcesmys@gmail.com** 
-
-Po zaplacení obdržíte:
-1. Kompletní materiály karty v přehledné struktuře
-2. Workshopové šablony (Google Docs/Sheets)
-3. Diagnostické nástroje
-4. Licenci k použití ve vaší organizaci
+Kombinujte karty a tvořte nové workshopy.  
+[→ Přehled kombinací](./kombinace/README.md) *(doplnit)*
 
 ---
 
-## 🌐 English version
+## 📄 Licence a kontakt
 
-First card available in English: **Cat (Communication Pathology)**  
-Price: €600  
-Contact: **chcesmys@gmail.com**
+**Cena jedné karty:** 15 000 Kč  
+**Kontakt:** [chcesmys@email.cz](mailto:chcesmys@email.cz)
 
----
-
-## 🔗 Užitečné odkazy
-
-- [Jak používat systém](./_diagnostika/jak_pouzivat.md)
-- [Ukázka kombinace karet](./_kombinace/plamenak_a_kocour.md)
-- [Jak kombinovat karty](./_kombinace/jak_kombinovat.md)
-
----
-
-## 📄 Licence
-
-Obsah tohoto repozitáře je licencován pod **Creative Commons Attribution-NonCommercial-ShareAlike 4.0**.  
-Plné verze karet jsou dostupné pod komerční licencí.
+*Každá karta obsahuje: pohádku, ilustraci, audio, 12 úhlů, diagnostickou matici, 12 protiléků, workshop, šablony, generátor a licenci pro komerční použití.*
