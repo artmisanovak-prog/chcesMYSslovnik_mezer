@@ -7,7 +7,7 @@
 ## 🚀 Rychlý start
 
 1. **Vyzkoušejte diagnostiku** – Přejděte do [karty Myš](./karty/mys/)
-2. **Prohlédněte si ukázkové karty** – [Plameňák](./karty/plamenak/) a [Kocour](./karty/kocour/)
+2. **Prohlédněte si ukázkové karty** – [plameňák](./karty/plamenak/) a [kocour](./karty/kocour/)
 3. **Naučte se diagnostikovat** – Přečtěte si [Klíč k úhlům](./_diagnostika/klic_k_uhlum.md)
 
 ---
