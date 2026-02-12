@@ -11,7 +11,7 @@
 | Co hledáš? | Otevři |
 |------------|--------|
 | Příběh o kocourovi, beruškách a 14 tečkách | [`pohadka.md`](./pohadka.md) |
-| Obraz, který to celý odstartoval | [`kocour.jpg`](./kocour.jpg) |
+| Obraz, který to celé odstartoval | [`kocour.jpg`](./kocour.jpg) |
 | 12 úhlů pohledu na jednu dysfunkci | [`uhly12.md`](./uhly12.md) |
 | Jak s kartou pracovat krok za krokem | [`Protokol.md`](./Protokol.md) |
 
@@ -32,13 +32,13 @@ Než začneš léčit, musíš vědět, co bolí.
 12 protiléků na 12 úhlů.  
 Ne „co dělat špatně“, ale „co dělat místo toho“.
 
-→ [`tvurce.md`](./tvurce.md)
+→ [`tvurce.md`](./tvurce.md)  
 
 Každý protilék obsahuje:
-- pozitivní princip
-- konkrétní aktivitu
-- otázku pro tým
-- **zpětný odkaz** do [`diagnostika.md`](./diagnostika.md)
+- pozitivní princip  
+- konkrétní aktivitu  
+- otázku pro tým  
+- **zpětný odkaz** do diagnostiky
 
 ---
 
@@ -47,7 +47,7 @@ Každý protilék obsahuje:
 Tahle karta umí víc, než se na první pohled zdá.  
 Stačí spojit dva různé úhly – a vznikne nový workshop.
 
-→ [`generator_IN.md`](./generator_IN.md)
+→ [`generator_IN.md`](./generator_IN.md)  
 
 4 hotové kombinace, které můžeš použít hned teď.  
 Žádná jiná karta není potřeba.
@@ -59,7 +59,7 @@ Stačí spojit dva různé úhly – a vznikne nový workshop.
 Všechno, co potřebuješ k vedení workshopu:
 
 → [`workshop.md`](./workshop.md) – 90minutový scénář, časování, instrukce  
-→ [`materialy.md`](./materialy.md) – šablony, pracovní listy, pomůcky
+→ [`materialy.md`](./materialy.md) – šablony, pracovní listy, pomůcky  
 
 ---
 
@@ -67,7 +67,7 @@ Všechno, co potřebuješ k vedení workshopu:
 
 Tato karta není volné dílo. Je to nástroj.
 
-→ [`licence_karty.txt`](./licence_karty.txt)
+→ [`licence_karty.txt`](./licence_karty.txt)  
 
 Součástí licence je **právo na všechny budoucí kombinace** s dalšími kartami systému.
 
